@@ -13,6 +13,7 @@ git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
 
 ## Usage
+<hr>
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
